@@ -1,2 +1,2 @@
 # Hello-World
-Getting started
+Getting started and learning Python and R
